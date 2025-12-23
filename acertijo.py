@@ -23,4 +23,4 @@ print("¿Cuanto vale el valor decimal 72 en el codigo ASCII?")
 # descubriras 4 letras
 
 # X ocupado, _ desocupado
-# XXXX, ____ kubh
+# XXXX, ____
